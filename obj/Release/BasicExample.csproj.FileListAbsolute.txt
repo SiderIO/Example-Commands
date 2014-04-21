@@ -1,0 +1,8 @@
+Z:\Projects\Sider.IO\BasicExample\bin\Release\End User License Agreement.txt
+Z:\Projects\Sider.IO\BasicExample\bin\Release\BasicExample.exe.config
+Z:\Projects\Sider.IO\BasicExample\bin\Release\BasicExample.exe
+Z:\Projects\Sider.IO\BasicExample\bin\Release\BasicExample.pdb
+Z:\Projects\Sider.IO\BasicExample\bin\Release\SDP.Net.dll
+Z:\Projects\Sider.IO\BasicExample\bin\Release\SDP.Net.pdb
+Z:\Projects\Sider.IO\BasicExample\obj\Release\BasicExample.exe
+Z:\Projects\Sider.IO\BasicExample\obj\Release\BasicExample.pdb
